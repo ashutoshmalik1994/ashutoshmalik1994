@@ -9,7 +9,8 @@ Back-end technologies stack: -----------------------------------
 - Web services: REST, SOAP, JSON 
 - Security: HTTPS/SSL, Encryption, Auditing, Logging, Identity Server 
 - Databases: My SQL, Mongo DB, Postgre SQL, Couch DB, Pouch DB, Amazon simple DB, Firebase, SQL Server 2005, 2008, 2012 
-
+- AI Integrations
+  
 Frontend technologies stack: ----------------------------------- 
 - HTML5, 
 - CSS, Bootstrap ,Tailwind,Chakra UI, Material UI
